@@ -60,5 +60,6 @@ class DiceTest {
         assertEquals(10000, five, 400);
         assertEquals(10000, six, 400);
 
+        //Marias ændring
     }
 }
